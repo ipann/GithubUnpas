@@ -1,0 +1,4 @@
+Resolusi 2020
+- Paham pengelolaan GIT dan Github
+- Paham Penggunaan Framework Laravel
+- Paham Penggunaaan Phton
